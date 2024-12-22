@@ -55,7 +55,7 @@ header ul li a:hover {
 
 .bg{
   height:90vh;
-  background-image: url('harvest.webp');
+  background-image: url('img/harvest.webp');
   background-size: cover;
   position: relative;
   opacity: 0.8;
